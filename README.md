@@ -10,7 +10,6 @@ Libraries:
 - pandas & numpy (data manipulation)
 - scikit-learn (TF-IDF, Logistic Regression, Random Forest, and evaluation metrics)
 
-- The results indicate that both Logistic Regression and Random Forest Classifier can effectively distinguish between real and fake news titles when trained on TF-IDF features. The evaluation metrics (such as accuracy, precision, recall, and F1-score) demonstrate satisfactory performance, with one model potentially outperforming the other based on the dataset used. This approach highlights the value of text-based feature extraction and classic machine learning techniques for fake news detection tasks.
 
 # Conclusions: 
 After evaluating both models:
